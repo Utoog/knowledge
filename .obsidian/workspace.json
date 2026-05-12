@@ -37,12 +37,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gpg encrypt and decrypt a file.md",
+                "file": "C Macro Stringize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gpg encrypt and decrypt a file"
+              "title": "C Macro Stringize"
+            }
+          },
+          {
+            "id": "e943f6d4d5409950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Macro Stringize.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C Macro Stringize"
+            }
+          },
+          {
+            "id": "da3469a0ed4b3508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jellyfin media naming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jellyfin media naming"
             }
           },
           {
@@ -60,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,14 +250,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "4c3b0f9fa286a818",
+  "active": "da3469a0ed4b3508",
   "lastOpenFiles": [
     "C Macro Stringize.md",
-    "gpg encrypt and decrypt a file.md",
-    "git commit signing.md",
-    "split and combine files.md",
+    "jellyfin media naming.md",
     "Create new virtual network address.md",
     "ftp with busybox.md",
+    "git commit signing.md",
+    "gpg encrypt and decrypt a file.md",
+    "README.md",
+    "split and combine files.md",
     "Using linux devmem in c.md",
     "Untitled.canvas"
   ]

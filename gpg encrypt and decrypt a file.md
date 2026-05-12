@@ -1,7 +1,7 @@
 
 encrypt
 ```shell
-gpg --output doc.gpg --encrypt --recipient blake@cyb.org doc
+gpg --output doc.gpg --encrypt --recipient {email} doc
 ```
 
 decrypt
